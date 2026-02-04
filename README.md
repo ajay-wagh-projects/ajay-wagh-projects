@@ -19,6 +19,6 @@ Designed executive Power BI dashboards for €60M+ products used by CMO, CRO, an
 
 
 🛠️ Tech Stack:  
-`Python` `SQL` `Power BI` `Tableau` `Advance Excel` `Git` `Pandas` `NumPy`
+`Power BI` `Advance Excel` `Python` `SQL` `Tableau` `Git` `Pandas` `NumPy`
 
 Seeking: Business Analyst and Data Analyst opportunities

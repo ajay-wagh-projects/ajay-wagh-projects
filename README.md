@@ -1,16 +1,24 @@
-## Hi there 👋
+ Hi, I am Ajay
 
-<!--
-**ajay-wagh-projects/ajay-wagh-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Business Data Analyst turning data into business solutions currently completing MSc Business Analytics @ University of Limerick
 
-Here are some ideas to get you started:
+💼 Recent Experience:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Consultant Business Analyst – Fedbank Financial Services
+Led analytics for €50M+ AUM portfolio. Built automated Power BI dashboards that cut manual reporting by 40-50%. Developed BRDs and collaborated with CRO/CDO on strategic initiatives.
+
+Data Analyst – Godrej Capital  
+Designed executive Power BI dashboards for €60M+ products used by CMO, CRO, and analytics leaders. Optimized credit risk assessment with Python/SQL, reducing evaluation time by 70-80%.
+
+- 🔭 I am currently working on building analytics portfolio projects in credit risk modeling and financial dashboards using Power BI
+- 🌱 I am currently learning advanced business analysis techniques and pursuing IIBA CCBA & Microsoft PL-300 certifications
+- 👯 I am looking to collaborate on **data analytics projects in finance, business intelligence, or process optimization**
+- 💬 Ask me about Power BI, Tableau, Python for analytics, credit risk modeling, or financial reporting
+- 📫 How to reach me: waghajay2502@gmail.com
+- ⚡ Fun fact: I reduced credit evaluation time by 80% with automation—imagine what we could optimize together!
+
+
+🛠️ Tech Stack:  
+`Python` `SQL` `Power BI` `Tableau` `Advance Excel` `Git` `Pandas` `NumPy`
+
+Seeking: Business Analyst and Data Analyst opportunities

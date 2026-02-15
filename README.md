@@ -7,7 +7,7 @@ A Business Data Analyst turning data into business solutions currently completin
 Consultant Business Analyst – Fedbank Financial Services
 Led analytics for €50M+ AUM portfolio. Built automated Power BI dashboards that cut manual reporting by 40-50%. Developed BRDs and collaborated with CRO/CDO on strategic initiatives.
 
-Data Analyst – Godrej Capital  
+Consultant Business Analytics – Godrej Capital  
 Designed executive Power BI dashboards for €60M+ products used by CMO, CRO, and analytics leaders. Optimized credit risk assessment with Python/SQL, reducing evaluation time by 70-80%.
 
 - 🔭 I am currently working on building analytics portfolio projects in credit risk modeling and financial dashboards using Power BI
